@@ -1,4 +1,4 @@
-# TinyML Housing Predictor
+# Housing Price Prediction (ML
 
 A small ML project that trains a **RandomForestRegressor** to predict `median_house_value` using the California housing dataset, with a saved preprocessing pipeline for easy inference.
 
